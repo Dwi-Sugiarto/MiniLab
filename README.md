@@ -1,2 +1,2 @@
 # MiniLab
-Belajar remote github menggubakan git bash
+Belajar remote github menggunakan git bash
